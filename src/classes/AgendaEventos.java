@@ -1,7 +1,9 @@
 package classes;
 
 import java.time.LocalDate;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 
 public class AgendaEventos {
 
@@ -13,6 +15,7 @@ public class AgendaEventos {
     }
 
     public void removerEvento(Evento evento) {
+      
     }
 
     public void obterProximoEvento() {
